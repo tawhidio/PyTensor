@@ -8,3 +8,4 @@ for row in data : {                                      # data를 row에 담아
 }
 
 f.close()                                                # 출력후 csv파일 닫아주고 끝낸다.
+ 
