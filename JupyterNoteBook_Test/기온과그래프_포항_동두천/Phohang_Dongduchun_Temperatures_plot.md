@@ -26201,7 +26201,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](output_img/output_7_0.png)
 
 
 
@@ -34629,7 +34629,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](output_img/output_12_0.png)
 
 
 * 두 도시의 통합 온도 그래프
@@ -34653,5 +34653,5 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png](output_img/output_14_0.png)
 
