@@ -26192,7 +26192,7 @@ print(p_date)
 
 
 ```python
-plt.figure(figsize = (18, 7))
+plt.figure(figsize = (20, 7))
 plt.plot(p_date, p_l_result, label="Low")
 plt.plot(p_date, p_n_result, 'g', label="Nomal")
 plt.plot(p_date, p_h_result, 'r', label="Hight")
