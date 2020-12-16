@@ -17,7 +17,7 @@ for row in data :                           # data 값을 row에 치환하여 �
             max_dig = float(row[4])
 
     print(row)                              # 출력
-f.close()                                   # 파일 모두 출력후 파일닫기                                             # 출력후 csv파일 닫아주고 끝낸다.
+f.close()                                   # 파일 모두 출력후 파일닫기                                             
 
 print("max dig : ", max_dig, "date 한글: " + max_dig_date)
 
