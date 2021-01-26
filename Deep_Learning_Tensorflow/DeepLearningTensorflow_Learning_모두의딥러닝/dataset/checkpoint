@@ -1,0 +1,2 @@
+model_checkpoint_path: "xrp_wight.h1"
+all_model_checkpoint_paths: "xrp_wight.h1"

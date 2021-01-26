@@ -123,3 +123,4 @@ pl.scatter(x, predict_res)
 pl.legend()
 pl.show()
 
+
